@@ -7,3 +7,4 @@
 - **Carrera:** Ingeniería en Computación
 - **Semestre:** 6to
 - **Artista fav:** Justin Bieber
+- **Ciudad:** CDMX 
