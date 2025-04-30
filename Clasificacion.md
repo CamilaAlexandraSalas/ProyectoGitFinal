@@ -20,9 +20,9 @@ Este archivo contiene mis canciones favoritas del momento:)
 | 9  | Maroon                         | Taylor Switf             | Pop           |
 | 10 | Company                        | Justin Bieber            | R&B/Pop       | 
 | 11 | Us                             | Gracie Abrams            | Pop           |
-| 2  | August                         | Taylor Swift             | Pop           |
-| 3  | Love You Different             | Justin Bieber            | R&B/Pop       |
-| 4  | deja vu                        | Olivia Rodrigo           | Pop           |
-| 5  | warm                           | Ariana Grande            | Pop           |
+| 12 | August                         | Taylor Swift             | Pop           |
+| 13 | Love You Different             | Justin Bieber            | R&B/Pop       |
+| 14 | deja vu                        | Olivia Rodrigo           | Pop           |
+| 15 | warm                           | Ariana Grande            | Pop           |
 
 
