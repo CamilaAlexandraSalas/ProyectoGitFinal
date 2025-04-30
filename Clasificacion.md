@@ -13,7 +13,7 @@ Este archivo contiene mis canciones favoritas del momento:)
 | 3  | Cinnamor Girl                  | Lana Del Rey             | Pop           |
 | 4  | supernatural                   | Ariana Grande            | Pop           |
 | 5  | Confirmation                   | Justin Bieber            | R&B/Pop       | 
-| 6  |                 |             | Pop           | 
+| 6  | That's So True                 | Gracie Abrams            | Pop           | 
 | 7  |        |            | Pop           | 
 | 8  |                        |             | Pop/R&B       | 
 | 9  |                    |              | Pop           |
