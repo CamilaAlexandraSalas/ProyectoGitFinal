@@ -51,3 +51,17 @@ Desarrollé una base de datos completa para una empresa de scooter. El proyecto 
   - Normalización hasta 3FN 
   - Creación de sentencias SQL
 - 🛠️ SGBD utilizado: SQL Server
+
+---
+
+## ➗ Calculadora de Matrices y Polinomios 
+
+**Descripción:** 
+Desarrollé una calculadora que realiza operaciones con matrices y polinomios en lenguaje C.
+
+- 📐 Operaciones con matrices: suma, resta, multiplicación, inversa, transposicion
+- 🧮 Polinomios: suma, resta, multiplicacion
+- 💻 Lenguaje: C 
+
+---
+
