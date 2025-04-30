@@ -1,6 +1,6 @@
 # 🚀 Proyectos Realizados
 
-Lista de los proyectos:)
+Lista de proyectos:)
 
 ---
 
@@ -38,3 +38,16 @@ La terminal incluye varias funcionalidades similares a un sistema real.
 - 🕹️  Ahorcado
 
 ---
+
+## 🗄️ Base de Datos Caso de estudio SCOOTER-GO
+
+**Descripción:**
+Desarrollé una base de datos completa para una empresa de scooter. El proyecto incluyó el análisis de requerimientos, el diseño del modelo entidad-relación (MER), el modelo relacional, normalización hasta 3FN y la implementación en un SGBD.
+
+- 🧠 Etapas:
+  - Análisis del problema
+  - Diseño del MER (con cardinalidades y atributos)
+  - Modelo relacional
+  - Normalización hasta 3FN 
+  - Creación de sentencias SQL
+- 🛠️ SGBD utilizado: SQL Server
