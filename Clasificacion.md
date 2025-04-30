@@ -4,7 +4,7 @@ Este archivo contiene mis canciones favoritas del momento:)
 
 ---
 
-# 🥇 Top 10 Canciones Favoritas
+# 🥇 Top Canciones Favoritas
 
 | #  | Canción                        | Artista(s)               | Género        | 
 |----|--------------------------------|--------------------------|---------------|
@@ -14,8 +14,8 @@ Este archivo contiene mis canciones favoritas del momento:)
 | 4  | supernatural                   | Ariana Grande            | Pop           |
 | 5  | Confirmation                   | Justin Bieber            | R&B/Pop       | 
 | 6  | That's So True                 | Gracie Abrams            | Pop           | 
-| 7  |        |            | Pop           | 
-| 8  |                        |             | Pop/R&B       | 
+| 7  | love is embarrasing            | Olivia Rodrigo           | Pop           | 
+| 8  | past life                      | Ariana Grande           | Pop       | 
 | 9  |                    |              | Pop           |
 | 10 |                        |             | R&B/Pop       | 
 
