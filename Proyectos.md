@@ -18,9 +18,23 @@ El juego incluye movimiento, detección de colisiones y obstaculos, generación 
 ## 💻 Simulador de Round Robin en Java
 
 **Descripción:**  
-Desarrolle un simulador del algoritmo de planificación de procesos **Round Robin**, mostrando visualmente cómo se asigna el tiempo de CPU a diferentes procesos.
+Desarrolle un simulador del algoritmo de planificación de procesos **Round Robin**
 
-- 🔄 Algoritmo: Round Robin con entrada dinámica de procesos 
 - 🧮 Funcionalidad: Cálculo de tiempos de espera, respuesta y ejecución 
 - 💻 Lenguaje: Java 
 - 📊 Salida: Tabla de procesos con resultados
+
+---
+
+## 🖥️ Terminal Simulada en Linux (Bash)
+
+**Descripción:**
+Desarrollé una simulación de una terminal en Linux utilizando scripts Bash.
+La terminal incluye varias funcionalidades similares a un sistema real.
+
+- 🔐 Acceso con usuario y contraseña
+- 🗂️  Buscar archivos
+- 🎵 Reproducción de música 
+- 🕹️  Ahorcado
+
+---
