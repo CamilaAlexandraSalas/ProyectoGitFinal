@@ -8,10 +8,10 @@ Este archivo contiene mis canciones favoritas del momento:)
 
 | #  | Canción                        | Artista(s)               | Género        | 
 |----|--------------------------------|--------------------------|---------------|
-| 1  | I'll Show You                  | Justin Bieber            | R&B/Pop       |
-| 2  |                  |              | R&B/Pop       | 
-| 3  |                   |              | Pop           |
-| 4  |                    |             | Pop           |
+| 1  | Deserve You                    | Justin Bieber            | R&B/Pop       |
+| 2  | Who's Afraid of Little Old Me? | Taylor Swift             | Pop           | 
+| 3  | Cinnamor Girl                  | Lana Del Rey             | Pop           |
+| 4  | supernatural                   | Ariana Grande            | Pop           |
 | 5  |              |             | R&B/Pop       | 
 | 6  |                 |             | Pop           | 
 | 7  |        |            | Pop           | 
