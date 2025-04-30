@@ -69,19 +69,17 @@ Desarrollé una calculadora que realiza operaciones con matrices y polinomios en
 ## ⚙️ Automatización en Python
 
 **Descripción:**
-Desarrollé un script en Python para automatizar tareas repetitivas como renombrar archivos, organizar carpetas, respaldar >
+Desarrollé un programa en Python para automatizar tareas repetitivas como renombrar archivos, organizar carpetas y respaldar.
 
-**Nombre:** Automatización de Tareas de Archivos
-**Lenguaje:** Python
+- 💻 Lenguaje: Python
 
 ---
 
 ## 🏎️ Simulación de la Fórmula 1
 
 **Descripción:**
-Simulación básica de una temporada de Fórmula 1 con múltiples pilotos, escuderías, circuitos y condiciones climáticas. El >
+Simulación de una temporada de Fórmula 1 con varios pilotos, escuderías, circuitos y condiciones climáticas. 
 
-**Nombre:** F1 Race Simulator
-**Lenguaje:** Java
+- 💻 Lenguaje: Python
 
 ---
