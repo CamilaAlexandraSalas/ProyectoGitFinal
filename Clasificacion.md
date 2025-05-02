@@ -27,3 +27,7 @@ Este archivo contiene mis canciones favoritas del momento:)
 | 16 | A keeper                       | Drake                    | House         |
 
 # Recomendaciones:)
+
+1. Hola, soy **Jessi**. 
+
+🎧 Te recomiendo: **Trust** - Sophie Lowe.
