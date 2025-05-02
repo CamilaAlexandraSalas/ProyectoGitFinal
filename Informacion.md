@@ -1,7 +1,7 @@
 # 📄 Información Personal
 
 <p align="center">
-    <img src="imagenes/imagen2.png" width="50%" />
+    <img src="imagenes/imagen2.png" width="25%" />
 </p>
 
 ## 👤 Datos Generales
