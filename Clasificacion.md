@@ -33,3 +33,4 @@ Este archivo contiene mis canciones favoritas del momento:)
 🎧 Te recomiendo: **Trust** - Sophie Lowe.
 
 2. Aló. aqui Crizzz. Fallo porque no conozco mucho de canciones populares jeje ~~mis gustos son muy underground, no creo que los conozcas~~. Por lo tanto, te recomiendo **Justice**. Muy buena banda de Elecrtonic Dance Music si te gusta Daft Punk :D. Solo es... una recomendación aleatoria.
+3. **ValeP**:te recomiendo para playlist de verano  Beauty and Beast- Justin Bieber
