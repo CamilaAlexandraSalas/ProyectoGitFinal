@@ -1,6 +1,8 @@
 
 # 🎧 Clasificación Canciones Favoritas
 
+<img src="imagenes/imagen6.png" width="50%" />
+
 Este archivo contiene mis canciones favoritas del momento:)
 
 ---
