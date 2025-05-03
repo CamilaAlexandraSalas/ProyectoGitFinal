@@ -3,6 +3,8 @@
 
 Lista de proyectos:)
 
+<img src="imagenes/imagen4.png" width="50%" />
+
 ---
 
 ## 🎮 Juego de la Serpiente en Ensamblador
