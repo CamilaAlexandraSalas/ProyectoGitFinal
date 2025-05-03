@@ -2,7 +2,7 @@
 
 ---
 
-<img src="imagenes/imagen3.png" width="25%" />
+<img src="imagenes/imagen3.png" width="50%" />
 
 📌Este repositorio es para el proyecto final del curso Git/GitHub, en donde se aplicó todo lo visto en clase.
 
